@@ -29,35 +29,13 @@ body {
     margin: 0;
 }
 
-.container {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-}
-
 .title {
     font-size: 60px;
     font-weight: bold;
 }
 
-.my-pic {
-    width: 25%;
-    height: 25%;
 
-    outline: 1px;
-    outline-style: solid;
-    outline-color: #f7e1d7;
 
-    border-radius: 10px;
-}
-
-.bio {
-    text-align: center;
-    line-height: 1.5
-}
 
 a:visited, a:link {
   color: #84a98c;

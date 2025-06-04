@@ -1,0 +1,27 @@
+/* css for the home page */
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.my-pic {
+    width: 25%;
+    height: 25%;
+
+    outline: 1px;
+    outline-style: solid;
+    outline-color: #f7e1d7;
+
+    border-radius: 10px;
+}
+
+
+.bio {
+    text-align: center;
+    line-height: 1.5
+}
